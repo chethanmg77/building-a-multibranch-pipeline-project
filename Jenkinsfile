@@ -4,7 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Hello world!'
-                echo 'second line of code'
+                echo 'second line of '
             }
         }
     }
